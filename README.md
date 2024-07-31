@@ -4,9 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java developer
 --------------
 
+I'm currently learning Java programming on the Hexlet platform. I have extensive experience in marketing and business analysis, but I was very interested in programming. Creating something useful for yourself and others and immediately seeing the result of your work is undoubtedly cool!
+
 * 🌍  I'm based in Russia, Tver
 * ✉️  You can contact me at [mstrdred@gmail.com](mailto:mstrdred@gmail.com)
 * 🧠  I'm learning Java
+* 🤝  I'm open to collaborating on Any java based projects
 
 ### Skills
 
